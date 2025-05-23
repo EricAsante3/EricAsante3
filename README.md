@@ -1,11 +1,7 @@
-I am a Junior at UConn Majoring in Computer Science and Engineering along with a minor in Electronics and Systems. 
+I'm a Senior at the University of Connecticut majoring in Computer Science and Engineering, with a minor in Electronics and Systems.
 
-I have a strong foundation in Python, C++, SQL, Git, JavaScript, CSS and HTML. 
+I have a solid background in React.js, web and mobile app development, and hands-on experience with Python, C++, C, Kotlin, AWS, MongoDB, SQL, Git, JavaScript, HTML/CSS, and .NET.
 
-Through my coursework, I have gained hands-on experience in project-oriented environments, applying Agile software development principles to effectively achieve project goals.
+My skill set spans both software and hardware, allowing me to design responsive user interfaces, implement backend logic and APIs, and develop embedded systems. I’m passionate about building user-focused solutions and continuously exploring new technologies.
 
-I enjoy exploring new ideas, connecting with people, and staying updated on the latest advancements in technology!
-
-My previous internship role as an Embedded Software Engineer involved me developing software for micro-devices in C and C++ for the purpose of data acquisitions on lithium batteries.
-
-Now I am looking for an internship opportunity where I can challenge and apply my knowledge in a professional setting!
+I’m currently seeking full-time engineering opportunities where I can apply my skills in a collaborative and innovative environment.
