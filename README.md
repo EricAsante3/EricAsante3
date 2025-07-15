@@ -7,16 +7,6 @@ Skilled in both software and hardware, with the ability to design responsive use
 Currently seeking full-time engineering opportunities in collaborative and innovative environments.
 
 
-<div style="text-align: center; background-color: #FF55FF">
-  <h1>Projects</h1>
-  <table width="500px" height="500px" style="margin: 0 auto;">
-      <td style="vertical-align: top; width: 50%; height: 100%; text-align: center;">
-        <img src="/Solid_red.png" width="100%" height="50%" /><br/>
-        <img src="/Solid_red.png" width="100%" height="50%" /><br/>
-      </td>
-      <td style="vertical-align: top; width: 50%; height: 100%; text-align: center;">
-        <img src="/Solid_red.png" width="100%" height="50%" /><br/>
-        <img src="/Solid_red.png" width="100%" height="50%" /><br/>
-      </td>
-  </table>
-</div>
+| <img src="/Solid_red.png" width="200" height="200"> | <img src="/Solid_red.png" width="200" height="200"> |
+| -------------------------------------------------- | -------------------------------------------------- |
+| <img src="/Solid_red.png" width="200" height="200"> | <img src="/Solid_red.png" width="200" height="200"> |
