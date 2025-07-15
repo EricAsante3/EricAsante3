@@ -7,7 +7,7 @@ Skilled in both software and hardware, with the ability to design responsive use
 Currently seeking full-time engineering opportunities in collaborative and innovative environments.
 
 
-<div style="text-align: center;">
+<div style="text-align: center; background-color: #FF5FFF">
   <h1>Projects</h1>
   <table width="500px" height="500px" style="margin: 0 auto;">
       <td style="vertical-align: top; width: 50%; height: 100%; text-align: center;">
