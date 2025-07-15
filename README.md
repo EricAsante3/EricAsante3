@@ -14,7 +14,7 @@ Currently seeking full-time engineering opportunities in collaborative and innov
         <img src="/Solid_red.png" width="100%" /><br/>
         <img src="/Solid_red.png" width="100%" /><br/>
       </td>
-      <td style="vertical-align: top; width: 50%; text-align: center;">
+      <td style="vertical-align: top; width: 650px; text-align: center;">
         <img src="/Solid_red.png" width="100%" /><br/>
         <img src="/Solid_red.png" width="100%" /><br/>
       </td>
