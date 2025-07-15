@@ -10,6 +10,6 @@ Currently seeking full-time engineering opportunities in collaborative and innov
 <h1>Projects</h1>
 
 
-| <img src="/Solid_red.png" width="200" height="200"> | <img src="/Solid_red.png" width="200" height="200"> |
+| <img src="/Solid_red.png" width="500" height="500"> | <img src="/Solid_red.png" width="500" height="500"> |
 | -------------------------------------------------- | -------------------------------------------------- |
-| <img src="/Solid_red.png" width="200" height="200"> | <img src="/Solid_red.png" width="200" height="200"> |
+| <img src="/Solid_red.png" width="500" height="500"> | <img src="/Solid_red.png" width="500" height="500"> |
