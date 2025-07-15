@@ -12,4 +12,4 @@ Currently seeking full-time engineering opportunities in collaborative and innov
 
 | <div align="center"><img src="/homepage.png" width="500" height="500"><br/><p>Homepage</p></div> | <div align="center"><img src="/s1.jpg" width="500" height="500"><br/><p>Screen 1</p></div> |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| <div align="center"><img src="/GameScreen.jpg" width="500" height="500"><br/><p>Game Screen</p></div> | <div align="center"><img src="/image.png" width="500" height="500"><br/><p>Image</p></div> |
+| <div align="center"><img src="/homepage.png" width="500" height="500"><br/><p><b>Homepage</b></p></div> | <div align="center"><img src="/s1.jpg" width="500" height="500"><br/><p>Screen 1</p></div> |
