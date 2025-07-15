@@ -9,7 +9,7 @@ Currently seeking full-time engineering opportunities in collaborative and innov
 
 <div style="text-align: center;">
   <h1>Projects</h1>
-  <table width="700px" height="700px" style="margin: 0 auto;">
+  <table width="800px" height="900px" style="margin: 0 auto;">
       <td style="vertical-align: top; width: 650px; text-align: center;">
         <img src="/Solid_red.png" width="100%" /><br/>
         <img src="/Solid_red.png" width="100%" /><br/>
